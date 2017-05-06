@@ -5,6 +5,8 @@
 [![Travis CI Build Status](https://travis-ci.org/MalongTech/productai-php-sdk.svg?branch=master)](https://travis-ci.org/MalongTech/productai-php-sdk)
 [![Code Coverage](https://codecov.io/gh/MalongTech/productai-php-sdk/branch/master/graph/badge.svg)](https://codecov.io/gh/MalongTech/productai-php-sdk)
 
+ProductAI® SDKs enable using ProductAI® APIs easily in the programming languege of your choice. You can use our Python PHP to send image queries and maintain your datasets.
+
 ### Install
 
 ```shell
@@ -148,6 +150,9 @@ vendor/bin/phpunit --bootstrap=tests/config.inc.php tests/
 ```
 
 ## 中文说明
+
+ProductAI® SDK提供了API请求封装与签名验证功能，用户可以轻松使用PHP代码完成API的调用。
+
 
 ### 安装
 
